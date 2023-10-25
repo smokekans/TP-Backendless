@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktp_backendless_smokekans=self.webpackChunktp_backendless_smokekans||[]).push([[896],{8896:function(e,s,n){n.r(s),n.d(s,{default:function(){return d}});n(2791);var r=n(1582),t=n(8870),c=n(8038),a=n(890),i=n(184);function d(){return(0,i.jsxs)(t.Z,{children:[(0,i.jsx)(a.Z,{children:"DummyChart"}),(0,i.jsx)(r.Z,{direction:"row",sx:{width:"80%"},children:(0,i.jsx)(t.Z,{sx:{flexGrow:1},children:(0,i.jsx)(c.A,{plotType:"bar",data:[1,4,2,5,7,2,4,6],height:250})})})]})}}}]);
+//# sourceMappingURL=896.e8eb5acc.chunk.js.map
